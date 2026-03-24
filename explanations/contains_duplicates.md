@@ -2,6 +2,7 @@
 Problem summary: Given a list of numbers, return True if the array contains at least one duplicate
 
 ---
+
 ## 2. Understanding the Problem
 - Input: array of integers
 - Output: Boolean (True if it contains duplicates, False if not)
@@ -25,12 +26,14 @@ Problem summary: Given a list of numbers, return True if the array contains at l
 - Idea: Sort the array, then compare adjacent elements 
 - Why it works: All duplicates will be next to each other, meaning that we can loop through the list and compare each adjacent element
 - Time complexity:  O(n log n)
+  
 ---
 
-## 5. Code Implementation
+## Code Implementation 
 See `python/contains_duplicates.py` for the solution.
 
 ---
+
 ## 6. Key Takeaways
 - Sorting the array makes it easier to detect duplicates efficiently.
 - Comparing adjacent elements is faster than checking every pair.

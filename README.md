@@ -1,4 +1,4 @@
-# LeetCode Solutions
+# ⭐ LeetCode Solutions ⭐
 
 A collection of LeetCode problems solved in Python and JavaScript, with detailed explanations for my thought processes and approaches.
 

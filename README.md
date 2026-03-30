@@ -5,6 +5,7 @@ A collection of LeetCode problems solved in Python and JavaScript, with detailed
 ## Languages
 - Python
 - JavaScript
+- SQL
 
 ## Problem Categories
 - Arrays

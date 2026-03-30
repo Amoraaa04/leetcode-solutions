@@ -26,4 +26,5 @@
 --- 
 
 ## Code link
-[UserTravelledDistance]([https://example.com](https://github.com/Amoraaa04/leetcode-solutions/blob/4fd63030296a06090ac1fb6f4bf8d44442081b7a/SQL/UserTravelledDistance.sql))
+[UserTravelledDistance](https://github.com/Amoraaa04/leetcode-solutions/blob/4fd63030296a06090ac1fb6f4bf8d44442081b7a/SQL/UserTravelledDistance.sql)
+

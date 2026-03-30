@@ -3,7 +3,7 @@ Problem summary: Given a list of numbers, return True if the array contains at l
 
 ---
 
-## 2. Understanding the Problem
+## 1. Understanding the Problem
 - Input: array of integers
 - Output: Boolean (True if it contains duplicates, False if not)
 - Constraints:
@@ -15,14 +15,14 @@ Problem summary: Given a list of numbers, return True if the array contains at l
 
 ---
 
-## 3. Brute Force Approach
+## 2. Brute Force Approach
 - Idea: Compare every element in the array to  each element in the nums list
 - Time Complexity: O(n²)
 - Why it's inefficient: It will take a lot of time if the array contains many elements (e.g., more than 20)
 
 ---
 
-## 4. Optimised Approach
+## 3. Optimised Approach
 - Idea: Sort the array, then compare adjacent elements 
 - Why it works: All duplicates will be next to each other, meaning that we can loop through the list and compare each adjacent element
 - Time complexity:  O(n log n)
@@ -34,7 +34,7 @@ See `python/contains_duplicates.py` for the solution.
 
 ---
 
-## 6. Key Takeaways
+## 4. Key Takeaways
 - Sorting the array makes it easier to detect duplicates efficiently.
 - Comparing adjacent elements is faster than checking every pair.
 - Always consider the constraints (array size, element range) when choosing an approach.

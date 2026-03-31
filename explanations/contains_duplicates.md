@@ -30,7 +30,7 @@ Problem summary: Given a list of numbers, return True if the array contains at l
 ---
 
 ## Code Implementation 
-See `python/contains_duplicates.py` for the solution.
+Press [Contains duplicates](https://github.com/Amoraaa04/leetcode-solutions/blob/4fd63030296a06090ac1fb6f4bf8d44442081b7a/Python/contains_duplicates.py) for the solution.
 
 ---
 

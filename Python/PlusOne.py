@@ -1,6 +1,5 @@
 # Plus One
 # This Python function increments a number represented as a list of digits.
-from typing import List
 
 class Solution:
     def plusOne(self, digits: List[int]) -> List[int]:
@@ -17,12 +16,7 @@ class Solution:
         return [1] + digits
 
 
-if __name__ == "__main__":
-    # Create an instance of the class
-    solution = Solution()
 
-    # Example test cases
-    print(solution.plusOne([1, 2, 3]))     # Output: [1, 2, 4]
     print(solution.plusOne([4, 3, 2, 1]))  # Output: [4, 3, 2, 2]
     print(solution.plusOne([9]))           # Output: [1, 0]
     print(solution.plusOne([1, 2, 9]))     # Output: [1, 3, 0]

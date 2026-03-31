@@ -17,7 +17,3 @@ class Solution:
 
 
 
-    print(solution.plusOne([4, 3, 2, 1]))  # Output: [4, 3, 2, 2]
-    print(solution.plusOne([9]))           # Output: [1, 0]
-    print(solution.plusOne([1, 2, 9]))     # Output: [1, 3, 0]
-    print(solution.plusOne([9, 9, 9]))     # Output: [1, 0, 0, 0]

@@ -11,7 +11,7 @@
 - **Constraints:** 
   - Users may have 0 or more rides
   - order by distance descending, then name ascending
-**Key observation:** Use `LEFT JOIN` to include users without rides and handle `NULL` distances
+- **Key observation:** Use `LEFT JOIN` to include users without rides and handle `NULL` distances
 
 ---
 

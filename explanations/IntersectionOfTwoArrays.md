@@ -38,9 +38,9 @@
    - Check if each value exists in the set of nums1
    - if number is in *num1*, add to *intersection*
    - return intersection
-- Time comlexity: O(n + m)
+- Time complexity: O(n + m)
 
 ---
 
 ## 4. Code Link
-Press []() to view code
+Press [IntersectionOfTwoArrays](https://github.com/Amoraaa04/leetcode-solutions/blob/b97bd05cd07fd23ec6b223f2512d0f86917df6c2/Python/IntersectionOfTwoArrays.py) to view code

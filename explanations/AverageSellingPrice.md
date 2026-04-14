@@ -7,7 +7,7 @@
 
 ---
 
-## 2. Understanding the Problem
+## 1. Understanding the Problem
 - Input: Tables ``Prices(product_id, price, start_date, end_date)`` and ``UnitsSold(units, purchase_date)``
 - Output: Table with columns ``product_id`` and ``average_price``
 - Constraints:
@@ -20,7 +20,7 @@
 
 ---
 
-## 3. Approach
+## 2. Approach
 - Idea / Plan: Use aggregate SUM(p.price * u.units) / SUM(u.units)to find average_price
 - Steps:
     - Create logic to calculate the average selling price and handle NULL values using COALESCE
@@ -30,6 +30,6 @@
       
 --
 
-## Code link
+## 3. Code link
 
 Press [AverageSellingPrice.sql](https://github.com/Amoraaa04/leetcode-solutions/blob/ec28f90a87827973664bb5f6f9a976a8dadf3362/SQL/AverageSellingPrice.sql) to view code

@@ -1,4 +1,5 @@
 # Contains duplicates
+
 Problem summary: Given a list of numbers, return True if the array contains at least one duplicate
 
 ---
@@ -29,12 +30,12 @@ Problem summary: Given a list of numbers, return True if the array contains at l
   
 ---
 
-## Code Implementation 
-Press [Contains duplicates](https://github.com/Amoraaa04/leetcode-solutions/blob/4fd63030296a06090ac1fb6f4bf8d44442081b7a/Python/contains_duplicates.py) for the solution.
+## 4. Code Implementation 
+Press [Contains duplicates](https://github.com/Amoraaa04/leetcode-solutions/blob/4fd63030296a06090ac1fb6f4bf8d44442081b7a/Python/contains_duplicates.py) to view code
 
 ---
 
-## 4. Key Takeaways
+## 5. Key Takeaways
 - Sorting the array makes it easier to detect duplicates efficiently.
 - Comparing adjacent elements is faster than checking every pair.
 - Always consider the constraints (array size, element range) when choosing an approach.

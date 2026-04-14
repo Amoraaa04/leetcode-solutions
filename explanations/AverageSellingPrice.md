@@ -28,7 +28,7 @@
     - Ensure purchase_date is between start_date and end_date 
     - ORDER BY product_id
       
---
+---
 
 ## 3. Code link
 

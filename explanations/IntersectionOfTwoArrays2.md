@@ -2,7 +2,7 @@
 
 **Problem Summary**: Given two integer arrays nums1 and nums2, return an array of the values that intersect
 
---
+---
 
 ## 1. Understanding the Problem
 
@@ -13,7 +13,7 @@ Constraints:
   - 0 <= nums1[i], nums2[i] <= 1000
 Key observation: The elements in the result do not have to be unique (can appear as many times as the number of intersections)
 
---
+---
 
 ## 2. Brute Force Approach
 
@@ -27,7 +27,7 @@ Key observation: The elements in the result do not have to be unique (can appear
 - Time Complexity: O(n × m)
 - Why it's inefficient: It would take too long when comparing large arrays
 
---
+---
 
 ## 3. Optimised Approach
 
@@ -46,7 +46,7 @@ Key observation: The elements in the result do not have to be unique (can appear
      - Return intersection array
 - Time complexity: O(n + m)
   
---
+---
 
 ## 4. Code Link
 Press [IntersectionOfTwoArrays2](https://github.com/Amoraaa04/leetcode-solutions/blob/f203db95f2f0cb6347ea129c653443942fd74716/Python/IntersectionofTwoarrays2.py) to view code

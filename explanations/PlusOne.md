@@ -41,8 +41,8 @@ Problem Summary: Given an integer represented as an array of digits, increment t
 
 ---
 
-## Code Implementation
-[Plus One code](https://github.com/Amoraaa04/leetcode-solutions/blob/36b8d7cd2fcf6f25c0f31274d60edfab124c0ee8/Python/PlusOne.py)
+## 4.  Code Implementation
+Press [Plus One code](https://github.com/Amoraaa04/leetcode-solutions/blob/36b8d7cd2fcf6f25c0f31274d60edfab124c0ee8/Python/PlusOne.py) to view code
 
 ## Key takeaways
 - practice more / explore brute-force ideas

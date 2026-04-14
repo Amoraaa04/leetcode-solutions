@@ -15,7 +15,7 @@
 
 ---
 
-## 3. Approach
+## 2. Approach
 - **Idea / Plan:** Aggregate rides per user using `SUM(distance)` and join with table `Users`  
 - **Steps:** 
   - LEFT JOIN Users with Rides on `user_id`
@@ -25,6 +25,6 @@
 
 --- 
 
-## Code link
-[UserTravelledDistance](https://github.com/Amoraaa04/leetcode-solutions/blob/4fd63030296a06090ac1fb6f4bf8d44442081b7a/SQL/UserTravelledDistance.sql)
+## 2. Code link
+Press [UserTravelledDistance](https://github.com/Amoraaa04/leetcode-solutions/blob/4fd63030296a06090ac1fb6f4bf8d44442081b7a/SQL/UserTravelledDistance.sql) to view code
 

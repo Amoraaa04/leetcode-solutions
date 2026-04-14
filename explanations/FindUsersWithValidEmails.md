@@ -24,6 +24,8 @@
 - Steps:
    - select user_id, name, mail from Users
    - Use WHERE REGEXP_LIKE mail: to select mail that starts with a letter, use the correct domain and correct characters
-     
+
+--- 
+
 ## 3. Code Link
 Press [Find users with valid e-mail](https://github.com/Amoraaa04/leetcode-solutions/blob/470c45d6a228f63b99850a85d418b3dc80086723/SQL/FindUsersWithValidEmails.sql) to view code

@@ -25,6 +25,6 @@
 
 --- 
 
-## 2. Code link
+## 3. Code link
 Press [UserTravelledDistance](https://github.com/Amoraaa04/leetcode-solutions/blob/4fd63030296a06090ac1fb6f4bf8d44442081b7a/SQL/UserTravelledDistance.sql) to view code
 
